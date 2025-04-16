@@ -4,6 +4,10 @@ A simple, interactive web app that detects anomalies in user activity data using
 
 ---
 
+## 🚀 Live Demo
+
+👉 [Click here to run the app](https://hojlykhrpcnjopthtvrcnd.streamlit.app/)
+
 ## 🔍 Features
 
 - 📊 Detect anomalies in user activity
